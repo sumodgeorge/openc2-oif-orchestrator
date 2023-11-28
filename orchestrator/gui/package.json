@@ -42,7 +42,7 @@
     "redux-api-middleware": "^3.2.1",
     "redux-logger": "^3.0.6",
     "redux-persist": "^6.0.0",
-    "redux-persist-transform-filter": "^0.0.20",
+    "redux-persist-transform-filter": "^0.0.21",
     "redux-thunk": "^2.3.0",
     "uuid": "^8.3.2"
   },
