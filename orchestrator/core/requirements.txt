@@ -1,7 +1,7 @@
 # SB-Utils@git+https://github.com/ScreamBun/SB_utils.git@develop#subdirectory=root
 bleach==3.3.0
 cryptography  # Use version from SB-Utils
-django==3.2.3
+django==3.2.23
 django-cors-headers==3.7.0
 django-dynamic-preferences==1.10.1
 django-fernet-fields==0.6
@@ -22,3 +22,4 @@ python-etcd  # Use version from SB-Utils
 pyexcel-xls==0.6.2
 PyMySQL==1.0.2
 whitenoise==5.2.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
