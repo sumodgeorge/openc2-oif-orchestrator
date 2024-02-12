@@ -22,3 +22,4 @@ python-etcd  # Use version from SB-Utils
 pyexcel-xls==0.6.2
 PyMySQL==1.0.2
 whitenoise==5.2.0
+dnspython>=2.6.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
