@@ -1,3 +1,4 @@
 # SB-Utils@git+https://github.com/ScreamBun/SB_utils.git#subdirectory=root
 pyOpenssl==20.0.1
 requests[security]==2.25.1
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
