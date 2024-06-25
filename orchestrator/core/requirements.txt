@@ -8,7 +8,7 @@ django-fernet-fields==0.6
 django-polymorphic==3.0.0
 django-rest-polymorphic==0.1.9
 django-rest-swagger==2.2.0
-djangorestframework==3.12.4
+djangorestframework==3.15.2
 djangorestframework-datatables==0.6.0
 djangorestframework-files==1.1.0
 djangorestframework-jwt==1.11.0
