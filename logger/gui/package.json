@@ -10,7 +10,7 @@
     "lint-errors": "yarn lint --quiet"
   },
   "dependencies": {
-    "bootstrap": "^4.4.1",
+    "bootstrap": "^5.0.0",
     "jquery": "^3.6.0",
     "moment": "^2.29.1",
     "react": "^16.14.0",
