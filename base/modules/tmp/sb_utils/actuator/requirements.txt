@@ -1,3 +1,4 @@
 SB-Utils@git+https://github.com/ScreamBun/SB_utils.git#subdirectory=root
 jsonschema==3.2.0
 python-etcd  # Use version from SB-Utils
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
