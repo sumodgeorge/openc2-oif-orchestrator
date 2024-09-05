@@ -17,10 +17,10 @@
     "react-bootswatch-theme-switcher": "https://github.com/czack425/react-bootswatch-theme-switcher",
     "react-dom": "^16.14.0",
     "react-helmet-async": "^1.0.9",
-    "react-hot-loader": "^4.13.0",
+    "react-hot-loader": "^4.13.1",
     "react-moment": "^1.1.1",
     "reactstrap": "^8.9.0",
-    "searchkit": "^2.4.4"
+    "searchkit": "^4.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.14.3",
