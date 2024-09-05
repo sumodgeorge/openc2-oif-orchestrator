@@ -29,7 +29,7 @@
     "react-confirm-alert": "^2.7.0",
     "react-dom": "^16.14.0",
     "react-helmet-async": "^1.0.9",
-    "react-hot-loader": "^4.13.0",
+    "react-hot-loader": "^4.13.1",
     "react-json-editor-ajrm": "^2.5.13",
     "react-json-generator": "https://github.com/czack425/react-json-generator",
     "react-json-pretty": "^2.2.0",
