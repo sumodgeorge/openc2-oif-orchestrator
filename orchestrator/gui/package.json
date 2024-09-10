@@ -34,7 +34,7 @@
     "react-json-generator": "https://github.com/czack425/react-json-generator",
     "react-json-pretty": "^2.2.0",
     "react-redux": "^7.2.4",
-    "react-router": "^5.2.0",
+    "react-router": "^6.0.0",
     "react-toastify": "^7.0.4",
     "react-transition-group": "^4.4.2",
     "reactstrap": "^8.9.0",
